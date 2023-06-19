@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'ThermoScale',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: Colors.grey[900],
