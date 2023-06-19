@@ -10,7 +10,28 @@ ThermoScale is a temperature conversion app built with Flutter. It allows you to
 
 ## Screenshots
 
-Include some screenshots of your app here to showcase its interface and functionality.
+<table style="width:100%">
+  <tr>
+    <td align="center">
+      <img src="screenshots/1.jpeg" alt="Screenshot 1" width="300"/>
+    </td>
+    <td align="center" style="padding-left: 40px;">
+      <img src="screenshots/2.jpeg" alt="Screenshot 2" width="300"/>
+    </td>
+  </tr>
+  <br>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3.jpeg" alt="Screenshot 1" width="300"/>
+    </td>
+    <td align="center" style="padding-left: 40px;">
+      <img src="screenshots/4.jpeg" alt="Screenshot 2" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## Getting Started
 
